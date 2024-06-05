@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\test_UE\\drone_game\\Source\\drone_game\\drone_game.Build.cs",
+		"C:\\test_UE\\drone_game\\Source\\drone_game.Target.cs",
+		"C:\\test_UE\\drone_game\\Source\\drone_gameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

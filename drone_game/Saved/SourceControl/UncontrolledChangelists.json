@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/test_UE/drone_game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/LoveJoy_turrent.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/LoveJoy_turrent_PhysicsAsset.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/Muzzle2.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/Muzzle1.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/LoveJoyTurrent.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Turret/LoveJoy_turrent_Skeleton.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_GameMode.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_Drone.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_Projectile.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_Turret.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_CoinHP.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WF/4EBAQNLMPMQYJUW9CLM575.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/DroneHUDWidget_BP.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_DroneHUD.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GN/R9NZUJKCSFN6LG4IGF6SHF.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_DroneHUDWidget.uasset",
+				"C:/test_UE/drone_game/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/test_UE/drone_game/Content/FPWeapon/Textures/T_FPGun_M.uasset",
+				"C:/test_UE/drone_game/Content/FPWeapon/Textures/T_FPGun_N.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/hudpb.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/DroneHUD.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0U/I9S5WLK39VBZSTA5SU7DZA.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/1A/TZPVJAN5QONM17RGCSM6XL.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/26/ATORTW5VCCEPIVN5UGV0K1.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/drone_gameProjectile.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_CoinAmmo.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GP/HL51G1UAJY05H17JF3R3OE.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/94/8J17LSD9NIHNPZPX3T4WZM.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/DM/D2M1325750S19YZQ4NYZ5V.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_DroneCharacter.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/BP_Turret.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/Blueprint_WallSconce.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
+				"C:/test_UE/drone_game/Content/FirstPerson/Blueprints/GameMode.uasset",
+				"C:/test_UE/drone_game/Content/StarterContent/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/test_UE/drone_game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset"
+			]
+		}
+	]
+}

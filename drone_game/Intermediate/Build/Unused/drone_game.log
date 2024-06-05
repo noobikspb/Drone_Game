@@ -1,0 +1,10 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" drone_gameEditor Win64 Development -Project="C:\test_UE\drone_game\drone_game.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\dimas\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for drone_gameEditor (working set of source files changed)
+  Parsing headers for drone_gameEditor
+    Running Internal UnrealHeaderTool C:\test_UE\drone_game\drone_game.uproject C:\test_UE\drone_game\Intermediate\Build\Win64\drone_gameEditor\Development\drone_gameEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 5 written
+  Reflection code generated for drone_gameEditor in 6.0018009 seconds
+  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.2\Engine\Build\BatchFiles\Build.bat" drone_gameEditor Win64 Development -Project="C:\test_UE\drone_game\drone_game.uproject" -WaitMutex -FromMsBuild" exited with code 6.

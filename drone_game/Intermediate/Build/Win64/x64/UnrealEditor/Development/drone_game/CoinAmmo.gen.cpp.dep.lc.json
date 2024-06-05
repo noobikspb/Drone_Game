@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\test_ue\\drone_game\\intermediate\\build\\win64\\unrealeditor\\inc\\drone_game\\uht\\coinammo.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\test_ue\\drone_game\\intermediate\\build\\win64\\x64\\drone_gameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\test_ue\\drone_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\drone_game\\definitions.drone_game.h",
+            "c:\\test_ue\\drone_game\\source\\drone_game\\coinammo.h",
+            "c:\\test_ue\\drone_game\\intermediate\\build\\win64\\unrealeditor\\inc\\drone_game\\uht\\coinammo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
